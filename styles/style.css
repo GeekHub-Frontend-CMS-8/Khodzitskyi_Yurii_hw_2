@@ -12,3 +12,9 @@ body {
     margin: auto;
     display: block;
 }
+.text-align-c {
+    text-align: center;
+}
+.text-align-r {
+    text-align: right;
+}
