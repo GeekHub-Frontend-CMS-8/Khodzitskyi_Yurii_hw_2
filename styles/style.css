@@ -7,3 +7,8 @@ body {
     max-width: 350px;
     margin: 0 10px 0 0;
 }
+.tree-img {
+    width: 350px;
+    margin: auto;
+    display: block;
+}
